@@ -1,4 +1,4 @@
-# Human-Action-Recognition-System
+# Human-Action-Recognition-CNN-BiLSTM
 
 ## Overview
 This project implements a Human-Action-Recognition-System (HAR). 
